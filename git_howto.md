@@ -13,3 +13,8 @@ git add
 ```sh
 git log
 ```
+
+## Вывод перечня изменений сокращенно
+```sh
+git log --oneline
+```
