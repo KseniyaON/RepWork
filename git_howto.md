@@ -18,3 +18,7 @@ git log
 ```sh
 git log --oneline
 ```
+## Перемещение по состояниям модификации файла
+```sh
+git checkout <nuber_state>
+```
