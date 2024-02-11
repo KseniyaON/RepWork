@@ -22,3 +22,20 @@ git log --oneline
 ```sh
 git checkout <nuber_state>
 ```
+
+## Дополнительные функции
+
+### WEB-Ссылки
+
+Git_for_Windows [files](https://github.com/git-for-windows/git/releases/tag/v2.35.1.windows.2)
+
+### Списки
+#### Нумерованный
+1. Текст
+2. Текст
+3. Текст
+
+#### Ненумерованный
+* Текст
+* Текст
+* Текст
