@@ -39,3 +39,7 @@ Git_for_Windows [files](https://github.com/git-for-windows/git/releases/tag/v2.3
 * Текст
 * Текст
 * Текст
+
+# Добавим картинку
+Это классный кот!
+![Кот](C:\Users\kseni\Desktop\lesson01\cat.jpg)
