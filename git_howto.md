@@ -56,3 +56,11 @@ git branch <barnch_name>
 ```sh
 git merge <branch_name>
 ```
+## Отслеживание изменений
+```sh
+git log --oneline --graph
+```
+## Удаление ветки
+```sh
+git branch -d
+```
