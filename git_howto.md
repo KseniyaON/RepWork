@@ -48,11 +48,6 @@ Git_for_Windows [files](https://github.com/git-for-windows/git/releases/tag/v2.3
 ```sh
 git branch
 ```
-<<<<<<< HEAD
-## Команда слияния веток
-```sh
-git merge <имя_ветки>
-=======
 ## Создание новой ветки
 ```sh
 git branch <barnch_name>
@@ -60,5 +55,12 @@ git branch <barnch_name>
 ## Слияние веток
 ```sh
 git merge <branch_name>
->>>>>>> branch_one
+```
+## Отслеживание изменений
+```sh
+git log --oneline --graph
+```
+## Удаление ветки
+```sh
+git branch -d
 ```
