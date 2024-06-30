@@ -52,3 +52,7 @@ git branch
 ```sh
 git branch <barnch_name>
 ```
+## Слияние веток
+```sh
+git merge <branch_name>
+```
