@@ -62,5 +62,5 @@ git log --oneline --graph
 ```
 ## Удаление ветки
 ```sh
-git branch -d
+git branch -d <имя_ветки>
 ```
