@@ -20,7 +20,7 @@ git log --oneline
 ```
 ## Перемещение по состояниям модификации файла
 ```sh
-git checkout <nuber_state>
+git checkout <nuber_state or name>
 ```
 
 ## Дополнительные функции
