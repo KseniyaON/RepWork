@@ -40,6 +40,11 @@ Git_for_Windows [files](https://github.com/git-for-windows/git/releases/tag/v2.3
 * Текст
 * Текст
 
-# Добавим картинку
+## Добавим картинку
 Это классный кот!
 ![Кот](C:\Users\kseni\Desktop\lesson01\cat.jpg)
+
+## Отображение всех веток
+```sh
+git branch
+```
