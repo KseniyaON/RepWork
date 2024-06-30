@@ -26,3 +26,5 @@
 Текст [пример ссылки](http.example.com "Всплывающая подсказка") 
 
 # Добавление картинок в Markdown
+Это кот 
+![Кот](C:\Users\kseni\Desktop\lesson01\cat.jpg)
