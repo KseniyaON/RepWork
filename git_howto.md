@@ -48,3 +48,7 @@ Git_for_Windows [files](https://github.com/git-for-windows/git/releases/tag/v2.3
 ```sh
 git branch
 ```
+## Команда слияния веток
+```sh
+git merge <имя_ветки>
+```
